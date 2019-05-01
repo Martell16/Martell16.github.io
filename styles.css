@@ -1,31 +1,28 @@
 body {
     background-image: url('images/console.jpg');
-    color: #FFFFFF;
+    color: #F10B0B;
     background-size: cover;
     text-align: left;
     vertical-align: bottom;
-    text-shadow: #00000;
+    text-shadow: #54E325;
 }
 .button {
-    background-color: #FF0000;
-    border-radius: 8px;
+    background-color:#f44336; /* Red */
+    border:none;
     color: white;
+    padding: 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 18px;
-    margin: 5px 5px;
+    font-size: 20px;
+    margin: 4px 2px;
     cursor: pointer;
 }
-.button1 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #4CAF50;
-}
-.button1:hover {
-  background-color: #4CAF50;
+.button:hover {
+  background-color:  #008CBA; /* Blue */
   color: white;
-}  
+}
+.button {border-radius: 8px;}
 div {
 padding-left: 20px;
 padding-right: 20px;

@@ -1,8 +1,8 @@
 body {
-    background-image: url('images/console.jpg');
-    color: #F10B0B;
+    background-image: url('images/console2.jpg');
+    color: #f44336;
     background-size: cover;
-    text-align: left;
+    text-align: center;
     vertical-align: bottom;
     text-shadow: #54E325;
 }
@@ -10,7 +10,7 @@ body {
     background-color:#f44336; /* Red */
     border:none;
     color: white;
-    padding: 10px;
+    padding: 5px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
